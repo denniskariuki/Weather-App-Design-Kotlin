@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather_App_Dennis_Kariuki</string>
+    <string name="searchplaces">Search Matatu Sacco</string>
+    <string name="demo_date">9th January 2:59 PM</string>
+    <string name="default_numbers">100</string>
+    <string name="pressure">Lipia Mzigo</string>
+    <string name="max_temp">Max Temperature</string>
+    <string name="humidty">Track Mzigo</string>
+    <string name="Mini_temp">Min Temperature</string>
+    <string name="Wind_Speed">Scan QR CODE</string>
+    <string name="temp_in_F">Temperature In F</string>
+    <string name="day">Day 19</string>
+    <string name="night">Night 10</string>
+    <string name="main_temp">16*</string>
+    <string name="fells_like">Feels Like 18*</string>
+    <string name="drizzle">Drizzling</string>
+    <string name="sunrise">SunRise</string>
+    <string name="sunset">SunSet</string>
+
+
+</resources>
